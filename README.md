@@ -54,14 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARAHMAN04&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAHMAN04&layout=compact&theme=tokyonight)
-
----
-
 ## 📂 Featured Projects
 
 Some projects I am currently working on:
