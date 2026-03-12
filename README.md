@@ -18,39 +18,46 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-grey?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+## 💻 Programming Languages
+
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
 ---
 
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue)
+## 🤖 AI & Machine Learning
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+</p>
 
 ---
 
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)
-![SQL Server](https://img.shields.io/badge/SQLServer-red?logo=microsoftsqlserver)
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
 
 ---
 
-### ⚙️ Frameworks & Tools
-![.NET](https://img.shields.io/badge/.NET-purple?logo=dotnet)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+## ⚙️ Frameworks
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+</p>
 
 ---
 
